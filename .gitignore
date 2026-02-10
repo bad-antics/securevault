@@ -1,0 +1,7 @@
+Manifest.toml
+*.jl.cov
+*.jl.mem
+docs/build/
+.DS_Store
+*.vault
+*.key
